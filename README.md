@@ -5,7 +5,12 @@
 ## java框架
 
 ### spring
- 
+
+
+## git学习笔记
+. git stash: 用来暂存本地的代码
+详情请看:[git](./git.md)
+
 
 ### spring boot
 
