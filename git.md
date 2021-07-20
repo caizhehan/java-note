@@ -9,3 +9,16 @@
 1. git stash: 在代码更新之前，先用git stash存储起来
 2. git pull: 同步远程仓库代码并合并到主线上
 3. git stash pop: 把暂存的代码pop出来
+
+## git 分支的使用
+
+git checkout -b xxx: 新建分支并切换到该分支
+git switch xxx: 切换分支
+git checkout -d xxx: 删除分支
+
+## git tag的使用
+
+git tag xxx: 新建tag
+git tag -d xxx: 删除本地tag
+git push origin :refs/tags/xxx: 删除远程分支
+hello world!!!
