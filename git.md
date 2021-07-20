@@ -22,3 +22,4 @@ git tag xxx: 新建tag
 git tag -d xxx: 删除本地tag
 git push origin :refs/tags/xxx: 删除远程分支
 hello world!!!
+life is shit!!
